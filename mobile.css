@@ -44,3 +44,9 @@ header .header-logo{
 .fa-magnifying-glass{
   font-size: 1.2rem;
 }
+.main-videos__grid{
+  grid-template-columns: repeat(auto-fit, 314px);
+}
+main img{
+  object-fit: fill;
+}
