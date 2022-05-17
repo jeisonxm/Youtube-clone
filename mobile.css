@@ -1,0 +1,46 @@
+aside{
+  display: none;
+}
+main{
+  grid-column-start: span 2;
+}
+.tags-buttons{
+  font-size: 1rem;
+}
+i{
+  font-size: 1.5rem;
+}
+.header-profile i{
+  display: none;
+}
+header .header-profile{
+  width: 45px;
+  margin-right: 0px;
+}
+header{
+  justify-content: center;
+}
+.fa-youtube{
+  font-size: 2rem;
+}
+header .header-logo a{
+  margin-left: 0;
+  margin-right: 5px;
+}
+header .header-logo{
+  margin-right: 35px;
+}
+.header-search-bar .input-text{
+  width: 100%;
+  height: 50%;
+  margin-left: -17px;
+}
+.header-search-bar button{
+  height: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fa-magnifying-glass{
+  font-size: 1.2rem;
+}

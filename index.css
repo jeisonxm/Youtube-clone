@@ -217,7 +217,7 @@ main{
 .main-videos__grid{
   margin-top: 30px;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(230px,260px));
+  grid-template-columns: repeat(auto-fit, minmax(230px,250px));
   grid-auto-rows: 250px;
   place-content: center;
   gap: 30px;
